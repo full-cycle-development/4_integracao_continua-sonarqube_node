@@ -2,5 +2,5 @@ projectKey=sonarqube_node
 serverUrl=http://localhost:9000
 serverVersion=10.3.0.82913
 dashboardUrl=http://localhost:9000/dashboard?id=sonarqube_node
-ceTaskId=AYywhDWcsKG4xeRoH-zx
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYywhDWcsKG4xeRoH-zx
+ceTaskId=AYywhmF2sKG4xeRoH-zy
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYywhmF2sKG4xeRoH-zy
